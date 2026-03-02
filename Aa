@@ -5,8 +5,6 @@
 </head>
 <body>
     <h1>Мой JPG</h1>
-
     <iframe src="глина.jpg" width="600" height="500"></iframe>
-
 </body>
 </html>
